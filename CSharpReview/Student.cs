@@ -42,7 +42,7 @@ namespace CSharpReview
 
         public void CalcAge()
         {
-            return null;
+            Console.WriteLine(age);
         }
     }
 }
