@@ -39,5 +39,10 @@ namespace CSharpReview
             Console.WriteLine(fName + " " + lName + "'s address is: " + address + ", " + state + ", " + zipCode + " and has " +
                                 visa + " VISA. Fee: " + fee);
         }
+
+        public void CalcAge()
+        {
+            return null;
+        }
     }
 }
