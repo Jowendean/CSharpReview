@@ -1,0 +1,6 @@
+C:\Users\jowen\Desktop\Claim Academy\Week 4\CSharpReview\CSharpReview\bin\Debug\CSharpReview.exe.config
+C:\Users\jowen\Desktop\Claim Academy\Week 4\CSharpReview\CSharpReview\bin\Debug\CSharpReview.exe
+C:\Users\jowen\Desktop\Claim Academy\Week 4\CSharpReview\CSharpReview\bin\Debug\CSharpReview.pdb
+C:\Users\jowen\Desktop\Claim Academy\Week 4\CSharpReview\CSharpReview\obj\Debug\CSharpReview.csprojAssemblyReference.cache
+C:\Users\jowen\Desktop\Claim Academy\Week 4\CSharpReview\CSharpReview\obj\Debug\CSharpReview.exe
+C:\Users\jowen\Desktop\Claim Academy\Week 4\CSharpReview\CSharpReview\obj\Debug\CSharpReview.pdb
