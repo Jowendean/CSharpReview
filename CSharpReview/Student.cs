@@ -45,6 +45,9 @@ namespace CSharpReview
             Console.WriteLine(age);
         }
 
-        
+        public void newMethod()
+        {
+            Console.WriteLine("hellow");
+        }
     }
 }
