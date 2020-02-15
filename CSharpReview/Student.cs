@@ -45,9 +45,6 @@ namespace CSharpReview
             Console.WriteLine(age);
         }
 
-        public void NewString()
-        {
-            Console.WriteLine("Here is a new string.");
-        }
+        
     }
 }
